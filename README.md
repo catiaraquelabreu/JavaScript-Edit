@@ -1,12 +1,17 @@
-# Js-Exercicio final.
 
-Para avaliação do segundo módulo (JavaScript) do curso Full-Stack Edit, tinhamos de criar funções especificas para o site que fizemos para avaliação do módulo anterior de HTML e CSS.
-- Realização de loading;
-- Fetch de API'S;
-- Data dinamica;
-- Submissão Newsletter;
--  ...;
+JavaScript Final Exercise.
+For the assessment of the second module (JavaScript) of the Full-Stack Edit course, we had to create specific functions for the website we built for the previous HTML and CSS module assessment.
 
--  CONCLUSÃO após avaliação do exercicio final:
-Na altura da realização deste exercicio senti que necessitava ainda de treinar as minhas capacidades e a logica para a construçao de várias funcões, mas com o conhecimento que tinha naquele moemento consegui alcançar a maioria do objectivos que eram necessários para este projecto final.
+-Loading implementation;
+
+-API fetching;
+
+-Dynamic date;
+
+-Newsletter submission;
+
+...
+
+CONCLUSION after the evaluation of the final exercise:
+At the time of completing this exercise, I felt that I still needed to practice my skills and logic in constructing various functions. However, with the knowledge I had at that moment, I was able to achieve most of the objectives required for this final project.
 
